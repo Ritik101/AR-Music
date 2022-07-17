@@ -1,4 +1,4 @@
-# AR Music App: Music Player using Augmented Reality (HTML CSS JS AR.js)	
+# AR Music App: Music Player using Augmented Reality 
 
 
 
